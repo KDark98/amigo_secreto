@@ -4,7 +4,7 @@ Descripción
 
 Este proyecto es una aplicación web simple para sortear un "Amigo Secreto" entre un grupo de amigos. Permite a los usuarios ingresar nombres en una lista y luego realizar un sorteo aleatorio para determinar quién es el "Amigo Secreto".
 
-Características 📌
+Características 
 
 Agregar nombres: Los usuarios pueden ingresar nombres a la lista.
 
